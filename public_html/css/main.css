@@ -1,0 +1,84 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.lead {
+    letter-spacing: 1px;
+}
+
+.centered {
+    text-align: center;
+
+}
+.mt {
+    margin-top: 20px;
+}
+.grid img {
+    opacity: .8;
+    border-radius: 6px;  
+
+}
+.grid { 
+} 
+.grid img {
+    margin: 20px; border: 5px solid #eee; 
+    -webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.2); 
+    -moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.2); 
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+    -webkit-transition: all 0.5s ease-out; 
+    -moz-transition: all 0.5s ease; 
+    -o-transition: all 0.5s ease;
+} 
+.grid img:hover {
+
+}
+.ex2 img{
+    width: 300px;
+    height: 180px;
+    -webkit-transition: all 0.5s ease; 
+    -moz-transition: all 0.5s ease; 
+    -o-transition: all 0.5s ease;
+}
+.ex2 img:hover { 
+    width: 400px; 
+    height: 225px;
+    margin-left: -7px;
+}
+
+.ex3 { 
+    line-height: 0px; 
+    color: transparent;
+    font-size: 50px; 
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-weight: 300; 
+    text-transform: uppercase; 
+    -webkit-transition: all 0.5s ease; 
+    -moz-transition: all 0.5s ease; 
+    -o-transition: all 0.5s ease;
+} 
+.ex3:hover {
+    line-height: 200px;
+    color: #575858; 
+} 
+h1 {
+    font: 400 95px/1.6 'Pacifico', Georgia, serif;
+}
+
+p, a {
+    font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
